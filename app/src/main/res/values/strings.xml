@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jadwal sholat mvp</string>
+    <string name="tv_isyha">Isyha</string>
+    <string name="todo">TODO</string>
+    <string name="tv_subuh">Subuh</string>
+    <string name="subuh_time">time</string>
+    <string name="tv_zuhur">Zuhur</string>
+    <string name="zuhur_time">time</string>
+    <string name="tv_ashar">Ashar</string>
+    <string name="ashar_time">time</string>
+    <string name="tv_magrhib">Magrhib</string>
+    <string name="magrib_time">time</string>
+    <string name="isya_time">time</string>
+</resources>
